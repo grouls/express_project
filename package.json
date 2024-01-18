@@ -1,0 +1,14 @@
+{
+  "name": "express_project",
+  "version": "1.0.0",
+  "description": "sample project used to get node, brew, git etc.. set up on a new machine",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "grouls",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
