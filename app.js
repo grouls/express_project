@@ -6,6 +6,7 @@ const port = 3000;
 let users = [
   { id: 1, name: 'Gary', age: 30 },
   { id: 2, name: 'Michael', age: 33 },
+  { id: 2, name: 'Stephen', age: 36 },
 ];
 
 app.use(bodyParser.json());
